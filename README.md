@@ -1,0 +1,4 @@
+# 从SMILES到CAS号获取
+
+先用rdkit对SMILES进行标准化
+然后再用标准化之后的SMILES进行CAS号的api查询
